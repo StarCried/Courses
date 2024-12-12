@@ -9,6 +9,3 @@ myPackage: 0.1.0
 ![函数说明](./函数说明.png)
 
 **其他比较重要有价值的要求**：可以自定义训练和预测数据集。
-
-**上传到我的 github 个人主页**: https://starcried.github.io/2024/12/12/R-package-homework/
-Password: Rcoding
